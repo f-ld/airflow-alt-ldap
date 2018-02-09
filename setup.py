@@ -31,7 +31,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/fld/airflow-alt-ldap',
+    url='https://github.com/f-ld/airflow-alt-ldap',
 
     # Author details
     author='F-LD',
